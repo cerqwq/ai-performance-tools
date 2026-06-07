@@ -3,12 +3,9 @@ __pycache__/
 *.pyo
 *.db
 *.log
-*.sqlite3
 .env
-.venv/
-venv/
 *.egg-info/
 dist/
 build/
-.idea/
-.ws-code/
+.DS_Store
+Thumbs.db
